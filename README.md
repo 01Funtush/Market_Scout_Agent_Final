@@ -165,6 +165,6 @@ npm run dev
 
 ---
 
-Developed with ❤️ by **Deepu Kumar** at **SingularSolution**.
+Developed  ❤️ by **Adarsh Kumar jha** at **SingularSolution**.
 **ScoutIQ v1.0.0-Stable** — *Surveillance you can trust.*
 # Market_Scout_Agent_Final
